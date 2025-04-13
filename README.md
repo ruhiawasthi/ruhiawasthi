@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**ruhiawasthi/ruhiawasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Ruhi Awasthi</h1>
+<h3 align="center">I Write Code That Clicks, Scrolls & Scales 🚀</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Girl">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌟 **About Me**
+- 💻 Currently working as a **Fullstack Developer at Incedo**  
+- 🚀 Fullstack Developer with 2+ years of experience  
+- 🎨 Passionate about crafting clean, user-friendly UIs  
+- 💡 Love solving real-world problems with scalable web solutions
+- 🌍 Building projects with **React**, **Node.js**, **MongoDB**, **PostgreSQL** ,**HTML**,**Tailwind CSS**,
+- ☁️ Experienced with **Github Actions**, **CI/CD**, and **Responsive Web Design**
+
+---
+
+🛠️ **Tech Stack**
+
+```javascript
+Frontend:   React | HTML | CSS | Tailwind CSS | JavaScript | C++  
+Backend:    Node.js | Express.js | MongoDB | PostgreSQL  |SQL
+Tools:      Git | GitHub | Jest | Babel | Webpack | Parcel  
+Cloud:      AWS (Amplify, EC2, RDS, S3) 
+Others:     REST APIs | CI/CD | Agile | UX/UI Principles |Figma
